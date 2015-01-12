@@ -1,0 +1,9 @@
+# crusadersquest
+get_weapon_sell_cost
+{"status": "success", "weapon_sell_cost": 
+[{"grade": 1, "id": "SELL_WEP_COST_G1", "goldcost": 120}, 
+{"grade": 2, "id": "SELL_WEP_COST_G2", "goldcost": 180}, 
+{"grade": 3, "id": "SELL_WEP_COST_G3", "goldcost": 270}, 
+{"grade": 4, "id": "SELL_WEP_COST_G4", "goldcost": 410}, 
+{"grade": 5, "id": "SELL_WEP_COST_G5", "goldcost": 620}, 
+{"grade": 6, "id": "SELL_WEP_COST_G6", "goldcost": 930}]}

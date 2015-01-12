@@ -1,8 +1,6 @@
 crusadersquest
 ==============
-
-hero sell cost
-
+get_hero_sell_cost
 {"status": "success", "hero_sell_cost": 
         [{"grade": 1, "id": "SELL_HERO_COST_G1_LV1", "honorcost": 11, "level": 1}, 
         {"grade": 1, "id": "SELL_HERO_COST_G1_LV2", "honorcost": 12, "level": 2}, 
